@@ -1,1 +1,3 @@
 TODO: Reflect on what you learned this week and what is still unclear.
+This is a week's journal. 
+CODE1161 was my first class in UNSW. From this class, I got many knowledge about computer that I didn't know before. Computer is not only tool for me, it is a new area of since. I also got many new friends and a nice professor.In class, I first came into contact with the software call "Visual Studio Code" and learnt how to use it to send : 'Hello World!'. I think it is a good start of new class and new life.
